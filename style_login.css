@@ -1,0 +1,45 @@
+.hhhp{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    position:relative;
+    padding: 200px;
+    align-content: center;
+    background-image: url(#);
+}
+
+.dropdown{
+   
+    background-color: rgb(37, 37, 37);
+    margin: 5px;    
+    border: 2px;
+    border-style: solid;
+    border-radius: 6px;
+    padding: 20px;
+    width: 470px;
+    height: 270px;
+    box-shadow: 2px;
+
+
+}
+
+.form-group{
+    color: rgb(184, 175, 175);
+    text-align:left;
+    font-family:Georgia, 'Times New Roman';
+    padding-bottom: 2%;
+}
+
+.button-signin{
+    padding-top: 4%;
+    padding-left: 40%;
+    padding-bottom: 2%;
+}
+
+
+
+
+
+    
+
+
